@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785528264731",
+    "project_id": "syndicat-30a87",
+    "storage_bucket": "syndicat-30a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785528264731:android:650b1d8dc4798bbea980be",
+        "android_client_info": {
+          "package_name": "com.example.controlandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHpa-EhVow8e8UX34T8RvYkQIu2UyCbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

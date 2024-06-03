@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">controlAndroid</string>
+    <string name="description">logo apps</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login_here">ALready have an account? Login here</string>
+    <string name="don_t_have_an_account_create_here">Don\'t have an account? Create here</string>
+    <string name="my_dashboard">My Dashboard</string>
+
+</resources>
